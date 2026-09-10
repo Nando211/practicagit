@@ -4,3 +4,4 @@ haciendolo solo
 confirmar 
 terminar 
 unificar
+inicie sin saber nada, aprendi a subir mi proyecto a github, practique y termine.
