@@ -1,4 +1,5 @@
 esta frase la escribi yo
+esta frase la escribió mi compañero
 hoy subi mi primer proyecto github
 haciendolo solo
 confirmar 
