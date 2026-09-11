@@ -14,7 +14,8 @@ function dividir(x, y) {
   if (y === 0) {
     return "no se puede dividir entre cero";
   }
-  return x / y;
+  return (x / y).toFixed(2)
+  
 }
 
 const x = Number(process.argv[2]);
@@ -29,3 +30,4 @@ if (Number.isNaN(x) || Number.isNaN(y)) {
   console.log("Multiplicación:", multiplicar(x, y));
   console.log("División:", dividir(x, y));
 }
+
